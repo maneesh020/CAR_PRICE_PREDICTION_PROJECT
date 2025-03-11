@@ -75,9 +75,9 @@ Implemented the following regression models:
 ```plaintext
 Car Price Prediction
 │
-├── Car_Price_Prediction.ipynb   # Jupyter Notebook
+├── Car_Price_Prediction_Implementation.ipynb   # Jupyter Notebook
 ├── README.md                    # Project Documentation
-├── carprice_dataset.csv                     # Dataset File
+├── CarPrice_Dataset.csv                     # Dataset File
 ```
 
 ## Key Recommendations
